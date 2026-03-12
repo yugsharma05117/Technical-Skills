@@ -42,5 +42,6 @@ class Program_6{
         {
             System.out.println("Second largest element is: "+max2);
         }
+    sc.close();
     }
 }
